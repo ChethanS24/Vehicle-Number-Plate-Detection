@@ -58,25 +58,25 @@ Download tesseract from [here](https://github.com/UB-Mannheim/tesseract/wiki) an
 ## Result
 When the program has run successfully, its output is as follows:
 
-Input image:
+**Input image:**
 
-![Inputimage]()
+![Inputimage](https://github.com/ChethanS24/Vehicle-Number-Plate-Detection/blob/main/Screenshots/s1.jpg)
 
-Output:
+**Output:**
 
-![output1]()
+![output1](https://github.com/ChethanS24/Vehicle-Number-Plate-Detection/blob/main/Screenshots/s2.png)
 
-IMAGE OF VEHICLE WITH DETECTED NUMBER PLATE:
+**IMAGE OF VEHICLE WITH DETECTED NUMBER PLATE:**
 
-![output2]()
+![output2](https://github.com/ChethanS24/Vehicle-Number-Plate-Detection/blob/main/Screenshots/s3.png)
 
-CROPPED NUMBER PLATE:
+**CROPPED NUMBER PLATE:**
 
-![output3]()
+![output3](https://github.com/ChethanS24/Vehicle-Number-Plate-Detection/blob/main/Screenshots/s4.png)
 
-STORED DATA:
+**STORED DATA:**
 
-![output4]()
+![output4](https://github.com/ChethanS24/Vehicle-Number-Plate-Detection/blob/main/Screenshots/s5.png)
 
 ## Conclusion
 
