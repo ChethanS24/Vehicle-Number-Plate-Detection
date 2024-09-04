@@ -5,6 +5,12 @@ Vehicle Number Plate Detection is the technology that uses computer vision to de
 
 This technology applies in many areas. On roads, it is used to identify the cars that are breaking the traffic rules. In security, it is used to capture the license plates of the vehicles getting into and out of certain premises. In parking lots, it is used to capture the license plates of the cars being parked. The list of its applications goes on and on.
 
+## 📌 Build With
+
+![python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)
+![opencv](https://img.icons8.com/?size=100&id=bpip0gGiBLT1&format=png&color=000000)
+![pycham](https://img.icons8.com/?size=100&id=117121&format=png&color=000000)
+
 ## Introduction 
 Python gives us the ability to create our license plate detection and recognition program. We achieve this by using three of its libraries; pytesseract, imutils, and OpenCv.
 
